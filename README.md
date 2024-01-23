@@ -1,4 +1,5 @@
-Certainly, here's a more professional rendition of the information:
+
+
 
 1. **History of Entity Framework on ASP.NET:** Entity Framework (EF), an open-source object-relational mapping (ORM) framework for ADO.NET, was initially part of the .NET Framework. However, starting with EF version 6.0, it has been separately delivered. The inaugural version of EF was released in August 2008, bundled with .NET Framework 3.5 Service Pack 1 and Visual Studio 2008 Service Pack 1.
 
